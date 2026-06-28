@@ -17,14 +17,12 @@ def build_database(db_path="database/analytics.db", clean_dir="data/cleaned"):
         df = pd.read_csv(f"{clean_dir}/{t}.csv")
         df.to_sql(t, conn, if_exists="replace", index=False)
         
-    print(f"[SUCCESS] Clean staging records structuralized inside DB: '{db_path}'")
+    print(f"Clean staging records structuralized inside DB: '{db_path}'")
     conn.close()
 
 def execute_analytical_queries(db_path="database/analytics.db"):
     conn = sqlite3.connect(db_path)
-    print("\n==========================================")
-    print("RUNNING DATABASE ANALYTICAL QUERY EXAMPLES")
-    print("==========================================")
+    print("\nRunning analytical queries")
     
     # Demonstrate key advanced analytical blocks
     sample_queries = ["revenue_per_category", "top_10_customers", "category_return_rate", "yoy_revenue_comparison"]
@@ -50,7 +48,7 @@ if __name__ == "__main__":
     execute_analytical_queries()
     
     # Step 5: Run Edge Case Test Suite
-    print("\n--- RUNNING EDGE CASE TEST SUITE ---")
+    print("\nRun edge case")
     run_test_suite()
     
     # Step 6: Initialize Interactive CLI Reporting App

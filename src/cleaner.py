@@ -61,9 +61,7 @@ def execute_cleaning_pipeline():
     # Write the mandatory text report [cite: 46]
     report_path = f"{clean_dir}/integrity_report.txt"
     with open(report_path, "w") as f:
-        f.write("==================================================\n")
-        f.write("        PIPELINE DATA INTEGRITY EXCEPTION REPORT  \n")
-        f.write("==================================================\n\n")
+        f.write("Pipeline data report")
         for k, v in report.items():
             f.write(f"{k}: {v}\n")
             
