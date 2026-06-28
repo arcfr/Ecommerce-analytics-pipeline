@@ -14,21 +14,22 @@ ecommerce_analytics/
 │   └── cleaned/              # Cleaned CSV datasets + validation anomaly log
 │
 ├── database/
-│   └── analytics.db          # Self-contained SQLite database file (where the live SQL tables reside)
+│   |── analytics.db          # Self-contained SQLite database file 
+|   |── analysis_queries.sql  # SQL script file containing your 16 analytical queries (SQLTools ready)
 │
 ├── src/
 │   ├── __init__.py           # Declares 'src' folder as a Python package module
 │   ├── generator.py          # Part 1: Synthesizes messy raw CSV records (>= 500 rows each)
-│   ├── cleaner.py            # Part 2: Cleans dates, trims strings, checks foreign keys with pandas
+│   ├── cleaner.py            # Part 2: Cleans dates, trims strings, checks foreign keys
 │   ├── queries.py            # Portfolio module holding all 16 analytical SQL blocks in a dictionary
 │   └── reports.py            # Part 4: Interactive, pure-Python CLI summary engine
 │
 ├── tests/
-│   └── test_edge_cases.py    # Part 5: Automated guardrail unit tests (catches out-of-bound errors)
+│   └── test_cases.py    # Part 5: Automated guardrail unit tests (catches out-of-bound errors)
 │
 ├── database_pipeline.py      # Automated ETL script that seeds clean CSV records into tables
 ├── run_pipeline.py           # The Master script that orchestrates the entire system end-to-end
-├── analysis_queries.sql      # SQL script file containing your 16 analytical queries (SQLTools ready)
+├   
 └── run_queries.py            # Utility script to test any of the 16 SQL queries inside the terminal
 
 By 
