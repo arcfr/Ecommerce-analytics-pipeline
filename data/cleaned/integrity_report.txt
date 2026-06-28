@@ -1,0 +1,14 @@
+==================================================
+        PIPELINE DATA INTEGRITY EXCEPTION REPORT  
+==================================================
+
+Total Raw Orders Scanned: 599
+Anomalies Detected: Missing Customer IDs (Dropped): 30
+Total Raw Products Scanned: 519
+Total Raw Customers Scanned: 549
+Anomalies Detected: Malformed Emails Found: 10
+Flagged Invalid Email Customer IDs List: ['C054', 'C056', 'C057', 'C058', 'C197', 'C445', 'C473', 'C482', 'C516', 'C541']
+Total Raw Order Items Scanned: 1212
+Metrics: Negative Transaction Balances (Returns Tracked): 35
+Anomalies Detected: Broken Referential Integrity Items (Dropped): 68
+Flagged Orphan Order IDs List: ['O0047', 'O0050', 'O0090', 'O0133', 'O0178', 'O0195', 'O0222', 'O0227', 'O0250', 'O0255', 'O0269', 'O0287', 'O0355', 'O0372', 'O0375', 'O0386', 'O0434', 'O0455', 'O0458', 'O0462', 'O0484', 'O0494', 'O0536', 'O0550', 'O0552', 'O0577', 'O0580', 'O0589', 'O0591', 'O0592', 'O9990', 'O9991', 'O9992', 'O9993', 'O9994']

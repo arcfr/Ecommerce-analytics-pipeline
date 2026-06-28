@@ -1,0 +1,520 @@
+product_id,product_name,category,subcategory,cost_price
+P001,Smart Watch Model-1,Electronics,Smart Watch,130.0
+P002,  sweater model-2   ,Clothing,Sweater,372.93
+P003,Tablet Model-3,Electronics,Tablet,24.6
+P004,Running Shoes Model-4,Clothing,Running Shoes,23.0
+P005,Sweater Model-5,Clothing,Sweater,277.02
+P006,Cotton T-Shirt Model-6,Clothing,Cotton T-Shirt,406.62
+P007,Laptop Model-7,Electronics,Laptop,176.72
+P008,Running Shoes Model-8,Clothing,Running Shoes,174.93
+P009,mIxEd BLUETOOTH SPEAKER MODEL-9,Electronics,Bluetooth Speaker,425.27
+P010,Desk Lamp Model-10,Home,Desk Lamp,272.75
+P011,Sci-Fi Novel Model-11,Books,Sci-Fi Novel,416.41
+P012,Toaster Model-12,Home,Toaster,44.08
+P013,Hoodie Model-13,Clothing,Hoodie,429.11
+P014,Bluetooth Speaker Model-14,Electronics,Bluetooth Speaker,321.49
+P015,Air Purifier Model-15,Home,Air Purifier,112.66
+P016,Vacuum Model-16,Home,Vacuum,327.54
+P017,Socks Model-17,Clothing,Socks,90.07
+P018,History Anthology Model-18,Books,History Anthology,323.6
+P019,Sweater Model-19,Clothing,Sweater,386.47
+P020,Laptop Model-20,Electronics,Laptop,404.47
+P021,mIxEd HISTORY ANTHOLOGY MODEL-21,Books,History Anthology,457.44
+P022,Air Purifier Model-22,Home,Air Purifier,203.86
+P023,Python Guide Model-23,Books,Python Guide,130.85
+P024,Vacuum Model-24,Home,Vacuum,449.93
+P025,History Anthology Model-25,Books,History Anthology,498.79
+P026,Sci-Fi Novel Model-26,Books,Sci-Fi Novel,431.94
+P027,Sweater Model-27,Clothing,Sweater,343.44
+P028,Bluetooth Speaker Model-28,Electronics,Bluetooth Speaker,498.1
+P029,Toaster Model-29,Home,Toaster,15.63
+P030,Monitor Model-30,Electronics,Monitor,377.93
+P031,Desk Lamp Model-31,Home,Desk Lamp,87.5
+P032,Monitor Model-32,Electronics,Monitor,139.06
+P033,Socks Model-33,Clothing,Socks,436.55
+P034,Vacuum Model-34,Home,Vacuum,107.47
+P035,Air Purifier Model-35,Home,Air Purifier,391.53
+P036,Tablet Model-36,Electronics,Tablet,19.54
+P037,Coffee Maker Model-37,Home,Coffee Maker,128.03
+P038,Smart Watch Model-38,Electronics,Smart Watch,409.85
+P039,Running Shoes Model-39,Clothing,Running Shoes,473.96
+P040,Hoodie Model-40,Clothing,Hoodie,307.23
+P041,Socks Model-41,Clothing,Socks,348.04
+P042,Blender Model-42,Home,Blender,328.44
+P043,Fiction Model-43,Books,Fiction,131.47
+P044,  wireless earbuds model-44   ,Electronics,Wireless Earbuds,281.42
+P045,mIxEd DENIM JACKET MODEL-45,Clothing,Denim Jacket,319.24
+P046,Denim Jacket Model-46,Clothing,Denim Jacket,431.22
+P047,Tablet Model-47,Electronics,Tablet,337.8
+P048,  socks model-48   ,Clothing,Socks,468.4
+P049,Python Guide Model-49,Books,Python Guide,405.67
+P050,  denim jacket model-50   ,Clothing,Denim Jacket,221.22
+P051,Biographies Model-51,Books,Biographies,367.25
+P052,Smart Watch Model-52,Electronics,Smart Watch,176.26
+P053,Laptop Model-53,Electronics,Laptop,272.78
+P054,Cotton T-Shirt Model-54,Clothing,Cotton T-Shirt,236.69
+P055,Bluetooth Speaker Model-55,Electronics,Bluetooth Speaker,429.42
+P056,Smart Watch Model-56,Electronics,Smart Watch,274.89
+P057,Smart Watch Model-57,Electronics,Smart Watch,425.86
+P058,Cotton T-Shirt Model-58,Clothing,Cotton T-Shirt,114.74
+P059,Sci-Fi Novel Model-59,Books,Sci-Fi Novel,11.06
+P060,History Anthology Model-60,Books,History Anthology,394.71
+P061,Blender Model-61,Home,Blender,367.95
+P062,Python Guide Model-62,Books,Python Guide,116.67
+P063,Tablet Model-63,Electronics,Tablet,39.87
+P064,  desk lamp model-64   ,Home,Desk Lamp,243.63
+P065,Denim Jacket Model-65,Clothing,Denim Jacket,49.25
+P066,Denim Jacket Model-66,Clothing,Denim Jacket,340.85
+P067,mIxEd COTTON T-SHIRT MODEL-67,Clothing,Cotton T-Shirt,446.24
+P068,Socks Model-68,Clothing,Socks,313.5
+P069,Comic Model-69,Books,Comic,266.16
+P070,Air Purifier Model-70,Home,Air Purifier,163.95
+P071,mIxEd BLENDER MODEL-71,Home,Blender,326.3
+P072,History Anthology Model-72,Books,History Anthology,468.51
+P073,Bluetooth Speaker Model-73,Electronics,Bluetooth Speaker,285.87
+P074,Smart Watch Model-74,Electronics,Smart Watch,257.88
+P075,Hoodie Model-75,Clothing,Hoodie,440.84
+P076,Coffee Maker Model-76,Home,Coffee Maker,418.54
+P077,Toaster Model-77,Home,Toaster,405.48
+P078,Monitor Model-78,Electronics,Monitor,156.7
+P079,Laptop Model-79,Electronics,Laptop,445.96
+P080,Hoodie Model-80,Clothing,Hoodie,113.21
+P081,Air Purifier Model-81,Home,Air Purifier,427.93
+P082,History Anthology Model-82,Books,History Anthology,424.59
+P083,Monitor Model-83,Electronics,Monitor,145.57
+P084,Wireless Earbuds Model-84,Electronics,Wireless Earbuds,322.19
+P085,Air Purifier Model-85,Home,Air Purifier,280.32
+P086,  fiction model-86   ,Books,Fiction,46.87
+P087,mIxEd SOCKS MODEL-87,Clothing,Socks,190.92
+P088,  cotton t-shirt model-88   ,Clothing,Cotton T-Shirt,161.05
+P089,Wireless Earbuds Model-89,Electronics,Wireless Earbuds,132.27
+P090,Wireless Earbuds Model-90,Electronics,Wireless Earbuds,443.23
+P091,Fiction Model-91,Books,Fiction,463.62
+P092,Running Shoes Model-92,Clothing,Running Shoes,407.28
+P093,Sci-Fi Novel Model-93,Books,Sci-Fi Novel,463.0
+P094,Comic Model-94,Books,Comic,407.27
+P095,Air Purifier Model-95,Home,Air Purifier,62.97
+P096,Bluetooth Speaker Model-96,Electronics,Bluetooth Speaker,410.13
+P097,History Anthology Model-97,Books,History Anthology,399.72
+P098,  running shoes model-98   ,Clothing,Running Shoes,104.63
+P099,Coffee Maker Model-99,Home,Coffee Maker,483.78
+P100,Coffee Maker Model-100,Home,Coffee Maker,205.84
+P101,mIxEd DESK LAMP MODEL-101,Home,Desk Lamp,485.5
+P102,Socks Model-102,Clothing,Socks,140.08
+P103,Tablet Model-103,Electronics,Tablet,366.99
+P104,Blender Model-104,Home,Blender,260.6
+P105,Fiction Model-105,Books,Fiction,31.75
+P106,Sci-Fi Novel Model-106,Books,Sci-Fi Novel,405.19
+P107,Hoodie Model-107,Clothing,Hoodie,474.95
+P108,Toaster Model-108,Home,Toaster,425.53
+P109,Toaster Model-109,Home,Toaster,210.11
+P110,Comic Model-110,Books,Comic,72.37
+P111,Comic Model-111,Books,Comic,341.89
+P112,Socks Model-112,Clothing,Socks,208.98
+P113,Wireless Earbuds Model-113,Electronics,Wireless Earbuds,220.65
+P114,Blender Model-114,Home,Blender,341.06
+P115,Comic Model-115,Books,Comic,51.55
+P116,Desk Lamp Model-116,Home,Desk Lamp,378.06
+P117,Air Purifier Model-117,Home,Air Purifier,82.2
+P118,Laptop Model-118,Electronics,Laptop,309.52
+P119,Bluetooth Speaker Model-119,Electronics,Bluetooth Speaker,318.59
+P120,Sweater Model-120,Clothing,Sweater,252.24
+P121,Running Shoes Model-121,Clothing,Running Shoes,12.72
+P122,Bluetooth Speaker Model-122,Electronics,Bluetooth Speaker,404.01
+P123,Sci-Fi Novel Model-123,Books,Sci-Fi Novel,459.56
+P124,  bluetooth speaker model-124   ,Electronics,Bluetooth Speaker,237.68
+P125,Blender Model-125,Home,Blender,362.44
+P126,Fiction Model-126,Books,Fiction,87.99
+P127,Biographies Model-127,Books,Biographies,131.15
+P128,Toaster Model-128,Home,Toaster,127.23
+P129,Sci-Fi Novel Model-129,Books,Sci-Fi Novel,124.9
+P130,Coffee Maker Model-130,Home,Coffee Maker,49.48
+P131,Running Shoes Model-131,Clothing,Running Shoes,84.87
+P132,Denim Jacket Model-132,Clothing,Denim Jacket,172.13
+P133,mIxEd BIOGRAPHIES MODEL-133,Books,Biographies,418.12
+P134,Fiction Model-134,Books,Fiction,19.57
+P135,mIxEd BIOGRAPHIES MODEL-135,Books,Biographies,182.36
+P136,Biographies Model-136,Books,Biographies,369.97
+P137,Cotton T-Shirt Model-137,Clothing,Cotton T-Shirt,223.56
+P138,Bluetooth Speaker Model-138,Electronics,Bluetooth Speaker,342.78
+P139,Comic Model-139,Books,Comic,239.02
+P140,Socks Model-140,Clothing,Socks,454.4
+P141,Smart Watch Model-141,Electronics,Smart Watch,76.49
+P142,  python guide model-142   ,Books,Python Guide,195.76
+P143,Cotton T-Shirt Model-143,Clothing,Cotton T-Shirt,383.0
+P144,History Anthology Model-144,Books,History Anthology,417.64
+P145,Desk Lamp Model-145,Home,Desk Lamp,377.02
+P146,Wireless Earbuds Model-146,Electronics,Wireless Earbuds,43.62
+P147,Smart Watch Model-147,Electronics,Smart Watch,107.69
+P148,Tablet Model-148,Electronics,Tablet,71.85
+P149,Tablet Model-149,Electronics,Tablet,237.87
+P150,Coffee Maker Model-150,Home,Coffee Maker,307.55
+P151,Laptop Model-151,Electronics,Laptop,62.97
+P152,Wireless Earbuds Model-152,Electronics,Wireless Earbuds,454.93
+P153,Biographies Model-153,Books,Biographies,107.18
+P154,Denim Jacket Model-154,Clothing,Denim Jacket,157.78
+P155,Tablet Model-155,Electronics,Tablet,180.13
+P156,Comic Model-156,Books,Comic,257.92
+P157,Desk Lamp Model-157,Home,Desk Lamp,412.94
+P158,Bluetooth Speaker Model-158,Electronics,Bluetooth Speaker,321.44
+P159,Comic Model-159,Books,Comic,96.31
+P160,Toaster Model-160,Home,Toaster,273.7
+P161,Biographies Model-161,Books,Biographies,368.2
+P162,Coffee Maker Model-162,Home,Coffee Maker,417.06
+P163,Wireless Earbuds Model-163,Electronics,Wireless Earbuds,129.49
+P164,Fiction Model-164,Books,Fiction,195.7
+P165,Bluetooth Speaker Model-165,Electronics,Bluetooth Speaker,99.1
+P166,Hoodie Model-166,Clothing,Hoodie,176.77
+P167,mIxEd TOASTER MODEL-167,Home,Toaster,474.55
+P168,Laptop Model-168,Electronics,Laptop,249.4
+P169,Sweater Model-169,Clothing,Sweater,358.8
+P170,  sci-fi novel model-170   ,Books,Sci-Fi Novel,118.58
+P171,Hoodie Model-171,Clothing,Hoodie,190.82
+P172,Blender Model-172,Home,Blender,279.69
+P173,Vacuum Model-173,Home,Vacuum,160.25
+P174,Denim Jacket Model-174,Clothing,Denim Jacket,164.62
+P175,Running Shoes Model-175,Clothing,Running Shoes,247.26
+P176,Desk Lamp Model-176,Home,Desk Lamp,155.16
+P177,Air Purifier Model-177,Home,Air Purifier,356.93
+P178,  hoodie model-178   ,Clothing,Hoodie,36.72
+P179,Vacuum Model-179,Home,Vacuum,322.56
+P180,Sci-Fi Novel Model-180,Books,Sci-Fi Novel,291.29
+P181,Biographies Model-181,Books,Biographies,100.34
+P182,Wireless Earbuds Model-182,Electronics,Wireless Earbuds,244.09
+P183,Bluetooth Speaker Model-183,Electronics,Bluetooth Speaker,292.74
+P184,  laptop model-184   ,Electronics,Laptop,285.79
+P185,Desk Lamp Model-185,Home,Desk Lamp,68.04
+P186,Fiction Model-186,Books,Fiction,313.02
+P187,Biographies Model-187,Books,Biographies,155.7
+P188,History Anthology Model-188,Books,History Anthology,39.51
+P189,Laptop Model-189,Electronics,Laptop,139.68
+P190,Laptop Model-190,Electronics,Laptop,280.48
+P191,Denim Jacket Model-191,Clothing,Denim Jacket,347.79
+P192,  history anthology model-192   ,Books,History Anthology,151.17
+P193,Vacuum Model-193,Home,Vacuum,44.88
+P194,Hoodie Model-194,Clothing,Hoodie,316.28
+P195,mIxEd COTTON T-SHIRT MODEL-195,Clothing,Cotton T-Shirt,120.16
+P196,Hoodie Model-196,Clothing,Hoodie,44.99
+P197,Hoodie Model-197,Clothing,Hoodie,413.88
+P198,  blender model-198   ,Home,Blender,347.45
+P199,History Anthology Model-199,Books,History Anthology,251.96
+P200,  tablet model-200   ,Electronics,Tablet,221.69
+P201,Toaster Model-201,Home,Toaster,54.75
+P202,Monitor Model-202,Electronics,Monitor,292.36
+P203,Cotton T-Shirt Model-203,Clothing,Cotton T-Shirt,226.69
+P204,Air Purifier Model-204,Home,Air Purifier,223.58
+P205,Sci-Fi Novel Model-205,Books,Sci-Fi Novel,210.09
+P206,  vacuum model-206   ,Home,Vacuum,88.8
+P207,Comic Model-207,Books,Comic,334.67
+P208,  fiction model-208   ,Books,Fiction,53.15
+P209,mIxEd COFFEE MAKER MODEL-209,Home,Coffee Maker,388.55
+P210,Monitor Model-210,Electronics,Monitor,236.37
+P211,Laptop Model-211,Electronics,Laptop,315.09
+P212,Comic Model-212,Books,Comic,35.29
+P213,mIxEd TOASTER MODEL-213,Home,Toaster,151.13
+P214,  sci-fi novel model-214   ,Books,Sci-Fi Novel,318.71
+P215,Sweater Model-215,Clothing,Sweater,279.91
+P216,Sci-Fi Novel Model-216,Books,Sci-Fi Novel,422.29
+P217,Bluetooth Speaker Model-217,Electronics,Bluetooth Speaker,327.38
+P218,Cotton T-Shirt Model-218,Clothing,Cotton T-Shirt,153.01
+P219,Blender Model-219,Home,Blender,490.32
+P220,Cotton T-Shirt Model-220,Clothing,Cotton T-Shirt,197.96
+P221,Denim Jacket Model-221,Clothing,Denim Jacket,397.1
+P222,History Anthology Model-222,Books,History Anthology,258.79
+P223,Wireless Earbuds Model-223,Electronics,Wireless Earbuds,420.36
+P224,Python Guide Model-224,Books,Python Guide,247.33
+P225,Toaster Model-225,Home,Toaster,194.83
+P226,Air Purifier Model-226,Home,Air Purifier,127.01
+P227,Python Guide Model-227,Books,Python Guide,211.28
+P228,Vacuum Model-228,Home,Vacuum,457.58
+P229,Biographies Model-229,Books,Biographies,398.27
+P230,Cotton T-Shirt Model-230,Clothing,Cotton T-Shirt,71.86
+P231,Desk Lamp Model-231,Home,Desk Lamp,225.75
+P232,Sci-Fi Novel Model-232,Books,Sci-Fi Novel,210.89
+P233,Denim Jacket Model-233,Clothing,Denim Jacket,484.91
+P234,Toaster Model-234,Home,Toaster,328.42
+P235,Vacuum Model-235,Home,Vacuum,196.2
+P236,Vacuum Model-236,Home,Vacuum,382.11
+P237,mIxEd TABLET MODEL-237,Electronics,Tablet,319.27
+P238,Air Purifier Model-238,Home,Air Purifier,222.65
+P239,Monitor Model-239,Electronics,Monitor,59.25
+P240,Sweater Model-240,Clothing,Sweater,24.18
+P241,Desk Lamp Model-241,Home,Desk Lamp,193.67
+P242,Running Shoes Model-242,Clothing,Running Shoes,287.3
+P243,Running Shoes Model-243,Clothing,Running Shoes,308.65
+P244,Fiction Model-244,Books,Fiction,253.86
+P245,Running Shoes Model-245,Clothing,Running Shoes,134.45
+P246,  vacuum model-246   ,Home,Vacuum,404.27
+P247,Vacuum Model-247,Home,Vacuum,46.19
+P248,Toaster Model-248,Home,Toaster,481.39
+P249,Blender Model-249,Home,Blender,107.62
+P250,  biographies model-250   ,Books,Biographies,196.87
+P251,Toaster Model-251,Home,Toaster,352.65
+P252,Monitor Model-252,Electronics,Monitor,13.97
+P253,Tablet Model-253,Electronics,Tablet,418.09
+P254,Air Purifier Model-254,Home,Air Purifier,182.64
+P255,Socks Model-255,Clothing,Socks,380.23
+P256,  sweater model-256   ,Clothing,Sweater,317.45
+P257,Wireless Earbuds Model-257,Electronics,Wireless Earbuds,26.35
+P258,  vacuum model-258   ,Home,Vacuum,455.72
+P259,Vacuum Model-259,Home,Vacuum,108.39
+P260,Toaster Model-260,Home,Toaster,143.54
+P261,Hoodie Model-261,Clothing,Hoodie,472.65
+P262,Vacuum Model-262,Home,Vacuum,404.07
+P263,mIxEd SCI-FI NOVEL MODEL-263,Books,Sci-Fi Novel,483.59
+P264,Fiction Model-264,Books,Fiction,397.43
+P265,Wireless Earbuds Model-265,Electronics,Wireless Earbuds,232.85
+P266,Toaster Model-266,Home,Toaster,322.89
+P267,Desk Lamp Model-267,Home,Desk Lamp,241.02
+P268,Toaster Model-268,Home,Toaster,40.98
+P269,Comic Model-269,Books,Comic,210.06
+P270,Denim Jacket Model-270,Clothing,Denim Jacket,159.14
+P271,mIxEd SCI-FI NOVEL MODEL-271,Books,Sci-Fi Novel,444.76
+P272,Cotton T-Shirt Model-272,Clothing,Cotton T-Shirt,338.54
+P273,Fiction Model-273,Books,Fiction,85.72
+P274,  comic model-274   ,Books,Comic,249.78
+P275,mIxEd HISTORY ANTHOLOGY MODEL-275,Books,History Anthology,191.56
+P276,Biographies Model-276,Books,Biographies,429.17
+P277,Monitor Model-277,Electronics,Monitor,451.83
+P278,Desk Lamp Model-278,Home,Desk Lamp,103.01
+P279,mIxEd BLUETOOTH SPEAKER MODEL-279,Electronics,Bluetooth Speaker,113.93
+P280,Smart Watch Model-280,Electronics,Smart Watch,129.35
+P281,Socks Model-281,Clothing,Socks,416.61
+P282,Socks Model-282,Clothing,Socks,436.15
+P283,Air Purifier Model-283,Home,Air Purifier,302.03
+P284,Air Purifier Model-284,Home,Air Purifier,274.71
+P285,Denim Jacket Model-285,Clothing,Denim Jacket,22.63
+P286,Wireless Earbuds Model-286,Electronics,Wireless Earbuds,126.59
+P287,Desk Lamp Model-287,Home,Desk Lamp,35.68
+P288,  fiction model-288   ,Books,Fiction,41.14
+P289,History Anthology Model-289,Books,History Anthology,63.44
+P290,  socks model-290   ,Clothing,Socks,393.78
+P291,Blender Model-291,Home,Blender,25.26
+P292,Biographies Model-292,Books,Biographies,62.9
+P293,Sci-Fi Novel Model-293,Books,Sci-Fi Novel,167.83
+P294,  denim jacket model-294   ,Clothing,Denim Jacket,315.92
+P295,Blender Model-295,Home,Blender,269.97
+P296,Fiction Model-296,Books,Fiction,58.6
+P297,Monitor Model-297,Electronics,Monitor,386.79
+P298,Cotton T-Shirt Model-298,Clothing,Cotton T-Shirt,121.96
+P299,Blender Model-299,Home,Blender,367.51
+P300,Blender Model-300,Home,Blender,134.9
+P301,Sweater Model-301,Clothing,Sweater,42.9
+P302,Smart Watch Model-302,Electronics,Smart Watch,374.85
+P303,Air Purifier Model-303,Home,Air Purifier,297.37
+P304,  vacuum model-304   ,Home,Vacuum,183.26
+P305,mIxEd COMIC MODEL-305,Books,Comic,150.94
+P306,  coffee maker model-306   ,Home,Coffee Maker,258.63
+P307,Sweater Model-307,Clothing,Sweater,425.16
+P308,Toaster Model-308,Home,Toaster,383.68
+P309,Cotton T-Shirt Model-309,Clothing,Cotton T-Shirt,487.53
+P310,Tablet Model-310,Electronics,Tablet,416.44
+P311,Desk Lamp Model-311,Home,Desk Lamp,354.32
+P312,Coffee Maker Model-312,Home,Coffee Maker,98.89
+P313,Socks Model-313,Clothing,Socks,44.1
+P314,Smart Watch Model-314,Electronics,Smart Watch,115.42
+P315,Biographies Model-315,Books,Biographies,191.33
+P316,Toaster Model-316,Home,Toaster,442.84
+P317,Running Shoes Model-317,Clothing,Running Shoes,34.38
+P318,Wireless Earbuds Model-318,Electronics,Wireless Earbuds,217.77
+P319,Biographies Model-319,Books,Biographies,379.92
+P320,Wireless Earbuds Model-320,Electronics,Wireless Earbuds,148.79
+P321,Fiction Model-321,Books,Fiction,32.25
+P322,  fiction model-322   ,Books,Fiction,110.17
+P323,Running Shoes Model-323,Clothing,Running Shoes,151.83
+P324,Smart Watch Model-324,Electronics,Smart Watch,221.02
+P325,Cotton T-Shirt Model-325,Clothing,Cotton T-Shirt,122.75
+P326,Desk Lamp Model-326,Home,Desk Lamp,373.6
+P327,Sci-Fi Novel Model-327,Books,Sci-Fi Novel,48.15
+P328,Toaster Model-328,Home,Toaster,208.17
+P329,mIxEd HISTORY ANTHOLOGY MODEL-329,Books,History Anthology,20.22
+P330,Air Purifier Model-330,Home,Air Purifier,312.88
+P331,Desk Lamp Model-331,Home,Desk Lamp,61.87
+P332,Fiction Model-332,Books,Fiction,48.54
+P333,Vacuum Model-333,Home,Vacuum,173.2
+P334,Denim Jacket Model-334,Clothing,Denim Jacket,65.87
+P335,Hoodie Model-335,Clothing,Hoodie,479.53
+P336,  running shoes model-336   ,Clothing,Running Shoes,135.42
+P337,Socks Model-337,Clothing,Socks,381.98
+P338,Laptop Model-338,Electronics,Laptop,317.69
+P339,Fiction Model-339,Books,Fiction,229.96
+P340,Vacuum Model-340,Home,Vacuum,225.48
+P341,Biographies Model-341,Books,Biographies,400.2
+P342,Wireless Earbuds Model-342,Electronics,Wireless Earbuds,162.1
+P343,mIxEd SCI-FI NOVEL MODEL-343,Books,Sci-Fi Novel,417.53
+P344,Monitor Model-344,Electronics,Monitor,429.09
+P345,Biographies Model-345,Books,Biographies,477.57
+P346,Bluetooth Speaker Model-346,Electronics,Bluetooth Speaker,290.11
+P347,Hoodie Model-347,Clothing,Hoodie,255.67
+P348,  bluetooth speaker model-348   ,Electronics,Bluetooth Speaker,450.57
+P349,mIxEd VACUUM MODEL-349,Home,Vacuum,326.6
+P350,Laptop Model-350,Electronics,Laptop,495.58
+P351,Hoodie Model-351,Clothing,Hoodie,148.62
+P352,History Anthology Model-352,Books,History Anthology,35.66
+P353,Desk Lamp Model-353,Home,Desk Lamp,283.4
+P354,History Anthology Model-354,Books,History Anthology,427.27
+P355,mIxEd HOODIE MODEL-355,Clothing,Hoodie,335.17
+P356,Coffee Maker Model-356,Home,Coffee Maker,352.26
+P357,Python Guide Model-357,Books,Python Guide,469.62
+P358,Toaster Model-358,Home,Toaster,397.91
+P359,Sweater Model-359,Clothing,Sweater,474.08
+P360,Monitor Model-360,Electronics,Monitor,259.16
+P361,Wireless Earbuds Model-361,Electronics,Wireless Earbuds,476.07
+P362,Blender Model-362,Home,Blender,499.99
+P363,Denim Jacket Model-363,Clothing,Denim Jacket,396.18
+P364,Monitor Model-364,Electronics,Monitor,385.49
+P365,Socks Model-365,Clothing,Socks,89.5
+P366,Sweater Model-366,Clothing,Sweater,211.32
+P367,Cotton T-Shirt Model-367,Clothing,Cotton T-Shirt,378.67
+P368,Python Guide Model-368,Books,Python Guide,161.64
+P369,Python Guide Model-369,Books,Python Guide,474.09
+P370,Biographies Model-370,Books,Biographies,391.28
+P371,Python Guide Model-371,Books,Python Guide,402.62
+P372,  hoodie model-372   ,Clothing,Hoodie,245.49
+P373,Toaster Model-373,Home,Toaster,358.59
+P374,  wireless earbuds model-374   ,Electronics,Wireless Earbuds,88.55
+P375,mIxEd FICTION MODEL-375,Books,Fiction,224.36
+P376,Cotton T-Shirt Model-376,Clothing,Cotton T-Shirt,465.93
+P377,Sci-Fi Novel Model-377,Books,Sci-Fi Novel,193.24
+P378,Sci-Fi Novel Model-378,Books,Sci-Fi Novel,23.81
+P379,Monitor Model-379,Electronics,Monitor,397.78
+P380,Denim Jacket Model-380,Clothing,Denim Jacket,416.58
+P381,Sweater Model-381,Clothing,Sweater,311.52
+P382,Smart Watch Model-382,Electronics,Smart Watch,419.13
+P383,Sci-Fi Novel Model-383,Books,Sci-Fi Novel,126.44
+P384,Smart Watch Model-384,Electronics,Smart Watch,323.09
+P385,mIxEd SCI-FI NOVEL MODEL-385,Books,Sci-Fi Novel,453.52
+P386,Monitor Model-386,Electronics,Monitor,128.55
+P387,Hoodie Model-387,Clothing,Hoodie,311.26
+P388,Socks Model-388,Clothing,Socks,335.54
+P389,Tablet Model-389,Electronics,Tablet,43.16
+P390,Bluetooth Speaker Model-390,Electronics,Bluetooth Speaker,31.33
+P391,History Anthology Model-391,Books,History Anthology,17.96
+P392,Wireless Earbuds Model-392,Electronics,Wireless Earbuds,331.98
+P393,Tablet Model-393,Electronics,Tablet,172.93
+P394,Wireless Earbuds Model-394,Electronics,Wireless Earbuds,408.62
+P395,Sweater Model-395,Clothing,Sweater,350.74
+P396,  running shoes model-396   ,Clothing,Running Shoes,390.33
+P397,Sci-Fi Novel Model-397,Books,Sci-Fi Novel,31.47
+P398,Denim Jacket Model-398,Clothing,Denim Jacket,161.94
+P399,Fiction Model-399,Books,Fiction,27.94
+P400,Hoodie Model-400,Clothing,Hoodie,392.61
+P401,mIxEd COFFEE MAKER MODEL-401,Home,Coffee Maker,190.33
+P402,Comic Model-402,Books,Comic,478.67
+P403,Air Purifier Model-403,Home,Air Purifier,253.79
+P404,Desk Lamp Model-404,Home,Desk Lamp,48.67
+P405,Socks Model-405,Clothing,Socks,60.27
+P406,Vacuum Model-406,Home,Vacuum,228.5
+P407,Python Guide Model-407,Books,Python Guide,182.26
+P408,Monitor Model-408,Electronics,Monitor,182.75
+P409,History Anthology Model-409,Books,History Anthology,397.82
+P410,Smart Watch Model-410,Electronics,Smart Watch,209.04
+P411,mIxEd DENIM JACKET MODEL-411,Clothing,Denim Jacket,307.71
+P412,  sci-fi novel model-412   ,Books,Sci-Fi Novel,125.64
+P413,Coffee Maker Model-413,Home,Coffee Maker,287.95
+P414,Sweater Model-414,Clothing,Sweater,191.77
+P415,Sci-Fi Novel Model-415,Books,Sci-Fi Novel,269.44
+P416,History Anthology Model-416,Books,History Anthology,132.31
+P417,Smart Watch Model-417,Electronics,Smart Watch,254.53
+P418,  fiction model-418   ,Books,Fiction,389.73
+P419,Python Guide Model-419,Books,Python Guide,149.93
+P420,  python guide model-420   ,Books,Python Guide,427.88
+P421,Python Guide Model-421,Books,Python Guide,228.1
+P422,Monitor Model-422,Electronics,Monitor,493.42
+P423,mIxEd VACUUM MODEL-423,Home,Vacuum,275.66
+P424,Air Purifier Model-424,Home,Air Purifier,464.39
+P425,Hoodie Model-425,Clothing,Hoodie,69.47
+P426,Running Shoes Model-426,Clothing,Running Shoes,252.07
+P427,Toaster Model-427,Home,Toaster,239.03
+P428,Socks Model-428,Clothing,Socks,42.22
+P429,Comic Model-429,Books,Comic,267.59
+P430,  fiction model-430   ,Books,Fiction,486.47
+P431,Bluetooth Speaker Model-431,Electronics,Bluetooth Speaker,263.51
+P432,Socks Model-432,Clothing,Socks,99.16
+P433,Cotton T-Shirt Model-433,Clothing,Cotton T-Shirt,435.42
+P434,Tablet Model-434,Electronics,Tablet,90.68
+P435,Vacuum Model-435,Home,Vacuum,474.27
+P436,Desk Lamp Model-436,Home,Desk Lamp,321.18
+P437,Air Purifier Model-437,Home,Air Purifier,311.07
+P438,Tablet Model-438,Electronics,Tablet,299.99
+P439,Running Shoes Model-439,Clothing,Running Shoes,363.11
+P440,  toaster model-440   ,Home,Toaster,433.25
+P441,Smart Watch Model-441,Electronics,Smart Watch,387.8
+P442,Vacuum Model-442,Home,Vacuum,290.35
+P443,Bluetooth Speaker Model-443,Electronics,Bluetooth Speaker,277.33
+P444,Blender Model-444,Home,Blender,405.6
+P445,History Anthology Model-445,Books,History Anthology,347.42
+P446,Cotton T-Shirt Model-446,Clothing,Cotton T-Shirt,237.58
+P447,mIxEd TOASTER MODEL-447,Home,Toaster,432.13
+P448,Vacuum Model-448,Home,Vacuum,179.23
+P449,Python Guide Model-449,Books,Python Guide,262.34
+P450,Wireless Earbuds Model-450,Electronics,Wireless Earbuds,70.04
+P451,mIxEd PYTHON GUIDE MODEL-451,Books,Python Guide,34.8
+P452,Fiction Model-452,Books,Fiction,481.72
+P453,Hoodie Model-453,Clothing,Hoodie,363.35
+P454,Running Shoes Model-454,Clothing,Running Shoes,262.22
+P455,History Anthology Model-455,Books,History Anthology,54.12
+P456,Fiction Model-456,Books,Fiction,127.96
+P457,mIxEd DESK LAMP MODEL-457,Home,Desk Lamp,252.5
+P458,History Anthology Model-458,Books,History Anthology,425.11
+P459,Python Guide Model-459,Books,Python Guide,366.48
+P460,  history anthology model-460   ,Books,History Anthology,35.07
+P461,Hoodie Model-461,Clothing,Hoodie,46.03
+P462,Fiction Model-462,Books,Fiction,494.65
+P463,Laptop Model-463,Electronics,Laptop,203.01
+P464,Toaster Model-464,Home,Toaster,379.93
+P465,Socks Model-465,Clothing,Socks,255.04
+P466,  smart watch model-466   ,Electronics,Smart Watch,173.19
+P467,Fiction Model-467,Books,Fiction,307.07
+P468,Hoodie Model-468,Clothing,Hoodie,166.08
+P469,Fiction Model-469,Books,Fiction,156.62
+P470,Toaster Model-470,Home,Toaster,270.85
+P471,Blender Model-471,Home,Blender,190.5
+P472,Bluetooth Speaker Model-472,Electronics,Bluetooth Speaker,400.41
+P473,Tablet Model-473,Electronics,Tablet,483.86
+P474,  sweater model-474   ,Clothing,Sweater,245.42
+P475,Python Guide Model-475,Books,Python Guide,128.68
+P476,  laptop model-476   ,Electronics,Laptop,163.71
+P477,Cotton T-Shirt Model-477,Clothing,Cotton T-Shirt,211.08
+P478,Comic Model-478,Books,Comic,355.83
+P479,Socks Model-479,Clothing,Socks,334.49
+P480,History Anthology Model-480,Books,History Anthology,235.24
+P481,Toaster Model-481,Home,Toaster,388.27
+P482,Toaster Model-482,Home,Toaster,479.1
+P483,Toaster Model-483,Home,Toaster,471.33
+P484,Coffee Maker Model-484,Home,Coffee Maker,348.22
+P485,History Anthology Model-485,Books,History Anthology,284.64
+P486,  coffee maker model-486   ,Home,Coffee Maker,341.54
+P487,Biographies Model-487,Books,Biographies,477.76
+P488,  hoodie model-488   ,Clothing,Hoodie,478.1
+P489,Wireless Earbuds Model-489,Electronics,Wireless Earbuds,331.43
+P490,Python Guide Model-490,Books,Python Guide,273.9
+P491,mIxEd AIR PURIFIER MODEL-491,Home,Air Purifier,373.04
+P492,  running shoes model-492   ,Clothing,Running Shoes,453.54
+P493,Sweater Model-493,Clothing,Sweater,59.1
+P494,Vacuum Model-494,Home,Vacuum,343.78
+P495,Denim Jacket Model-495,Clothing,Denim Jacket,489.18
+P496,Cotton T-Shirt Model-496,Clothing,Cotton T-Shirt,441.52
+P497,Biographies Model-497,Books,Biographies,380.4
+P498,Coffee Maker Model-498,Home,Coffee Maker,38.99
+P499,Monitor Model-499,Electronics,Monitor,272.22
+P500,Laptop Model-500,Electronics,Laptop,420.43
+P501,Bluetooth Speaker Model-501,Electronics,Bluetooth Speaker,101.29
+P502,  desk lamp model-502   ,Home,Desk Lamp,288.3
+P503,Wireless Earbuds Model-503,Electronics,Wireless Earbuds,494.66
+P504,Python Guide Model-504,Books,Python Guide,239.33
+P505,Denim Jacket Model-505,Clothing,Denim Jacket,368.25
+P506,Vacuum Model-506,Home,Vacuum,370.94
+P507,Toaster Model-507,Home,Toaster,104.65
+P508,Biographies Model-508,Books,Biographies,52.5
+P509,Laptop Model-509,Electronics,Laptop,243.95
+P510,Denim Jacket Model-510,Clothing,Denim Jacket,125.41
+P511,Coffee Maker Model-511,Home,Coffee Maker,364.21
+P512,Wireless Earbuds Model-512,Electronics,Wireless Earbuds,349.46
+P513,mIxEd MONITOR MODEL-513,Electronics,Monitor,160.34
+P514,Comic Model-514,Books,Comic,448.61
+P515,mIxEd VACUUM MODEL-515,Home,Vacuum,458.9
+P516,Coffee Maker Model-516,Home,Coffee Maker,117.37
+P517,Cotton T-Shirt Model-517,Clothing,Cotton T-Shirt,376.39
+P518,Blender Model-518,Home,Blender,457.27
+P519,Running Shoes Model-519,Clothing,Running Shoes,301.95
